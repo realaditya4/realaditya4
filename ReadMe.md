@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on College management software<br>👯 I’m looking to collaborate on java based and graphic designing projects<br>🤝 I’m looking for help with data structure and algorithms<br>🌱 I’m currently learning advanced Java and data structure and algorithms<br>💬 Ask me about graphic designing and management<br>⚡ I'm a 3rd year student looking for internships and projects, I currently have a lot of experience in management
+🔭 I’m currently working on College management software<br>👀 looking to collaborate on java based and graphic designing projects<br>🤝 I’m looking for help with data structure and algorithms<br>🌱 Currently learning advanced Java and data structure and algorithms<br>💬 Ask me about graphic designing and management<br>⚡️ 3rd year student looking for internships and projects, I currently have a lot of experience in management
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=realaditya4&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
