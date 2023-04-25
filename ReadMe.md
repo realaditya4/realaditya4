@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realaditya4&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-1. <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=YOUR_USERNAME&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=realaditya_4&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
